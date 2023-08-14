@@ -1,4 +1,9 @@
 # first_app
+## My first and very simple Flutter project .
+Created this while learning Flutter and Dart. 
+
+
+
 
 A new Flutter project.
 
